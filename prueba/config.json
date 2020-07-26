@@ -1,0 +1,9 @@
+{
+    "operaciones": 
+	[
+		{"codOp": "00", "nombre": "Otras"		 , "activo":"S"	},
+		{"codOp": "01", "nombre": "Extraccion"   , "activo":"S" },
+		{"codOp": "F4", "nombre": "DebinDebito"  , "activo":"S" },
+		{"codOp": "F3", "nombre": "DebinCredito" , "activo":"S" }
+    ]
+}
